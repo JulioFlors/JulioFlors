@@ -7,8 +7,8 @@
 ## About me...
 ```js
 const julioFlores = { 
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "SQL", "NoSQL"],
-  tools: ["React", "Next.js", "Node.js", "Storybook, "styled-components", "Jest", "Firebase", "Vercel", "Figma"],
+  code: ["JavaScript", "HTML", "CSS", "SQL", "NoSQL"],
+  tools: ["React", "Next.js", "Node.js", "Firebase", "Vercel", "Figma"],
   current_job: {
     role: "Freelancer",
   }, 
